@@ -7,7 +7,6 @@
 
 <br/>
 
-
 Hi, I'm Sanchit Tanwar, 
 <br/>
 - I'm broadly interested in computer vision and deep learning, specifically in video analytics applications. 
